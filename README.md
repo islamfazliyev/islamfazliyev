@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm İslam 👋</h1>
-  <p><b>Systems Programming • Compilers & Languages • Game Engines • Full-Stack Web</b></p>
+  <p><b>Systems Programming • Compilers & Languages • Game Engines • Game Development • Full-Stack Web</b></p>
   
   <p>
     <a href="https://github.com/islamfazliyev">
@@ -63,4 +63,4 @@
 * **[Wolf-Lang](https://github.com/islamfazliyev/Wolf-Lang)** — A statically typed custom programming language and transpiler inspired by Lua and Ruby, built in Rust.
 * **[Talu Engine](https://github.com/ShinyVoid/Talu)** — A custom 2D/3D game engine written in Rust on top of Raylib.
 * **[Zest2D](https://github.com/islamfazliyev/Zest2D)** — A lightweight 2D game engine built with Nim and Raylib.
-* **[Laravel Uptime API](https://github.com/islamfazliyev/laravel-uptime-api)** — A REST API monitoring service featuring SSL expiration checks, keyword detection, and Discord webhook alerts.
+* **[CityFix-Ai](https://github.com/islamfazliyev/CityFix-Ai)** — A full-stack civic issue reporting platform combining a Ruby/Sinatra frontend with a Python AI image-analysis backend[cite: 7].
